@@ -1,4 +1,4 @@
-## Pokedex Application
+## Pokedex Guide Project :
 
 This project is a Pokedex application that allows users to search and explore the first 151 Pokémon characters. The app generates cards with different background colors based on Pokémon type, and it displays basic information like experience points and weight for each Pokémon.
 
